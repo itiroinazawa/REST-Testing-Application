@@ -1,0 +1,75 @@
+body{
+    background-color: #97972b;
+}
+
+p {
+    font-size: 12px;
+}
+
+.main{
+    padding: 10px;
+    margin: 10%;
+    background-color: #dbdb81;
+    border-radius: 15px;
+}
+
+.main .title{
+    margin-top: 5px;   
+    font-weight: bold;
+}
+
+.content {
+    width: 100%;
+    background-color: #FFF;
+    border: 1px solid #000;    
+    border-radius: 15px;
+}
+
+.get {
+    margin-top: 5px;   
+}
+
+.get p{
+    margin-top: 10px;
+    margin-left: 5px;   
+}
+
+.post {
+    margin-top: 5px;   
+}
+
+.post p{
+    margin-top: 10px;
+    margin-left: 5px;   
+}
+
+.put {
+    margin-top: 5px;   
+}
+
+.put p{
+    margin-top: 10px;
+    margin-left: 5px;   
+}
+
+.delete {
+    margin-top: 5px;   
+}
+
+.delete p{
+    margin-top: 10px;
+    margin-left: 5px;   
+}
+
+.buttons {
+    height: 20%;
+    margin-top: 10px;
+    
+}
+
+.button {
+    height: auto;
+    float: right;
+    margin-right: 10px;
+}
+
